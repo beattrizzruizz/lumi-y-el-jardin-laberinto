@@ -37,6 +37,8 @@ El juego mezcla:
 
 creando una experiencia tranquila, artística y emocional centrada en la restauración de la naturaleza y el crecimiento personal .
 
+<img src="" width="300">
+
 **Estilo/género:**  Infantil.
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
