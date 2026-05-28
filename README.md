@@ -57,7 +57,7 @@ creando una experiencia tranquila, artística y emocional centrada en la restaur
 
 - Github:
 - Itch.io
-<img src="33 sin título_20260406225635 (1).jpeg" width="300">
+
 <img src="33 sin título_20260406225635 (1).jpeg" width="200">
 # 2. Memoria del proyecto 
 
