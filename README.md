@@ -64,79 +64,94 @@ creando una experiencia tranquila, artística y emocional centrada en la restaur
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
+El videojuego comienza en un jardín abandonado y seco donde Lumi, el personaje principal, despierta sin conocer el camino hacia la salida. El entorno aparece apagado, sin flores ni vida, transmitiendo sensación de abandono.
 
+Mientras el jugador avanza por el mapa, Lumi encuentra distintos personajes que le ayudan mediante diálogos y pequeñas misiones. La primera misión consiste en plantar semillas y regar una zona seca para comenzar a devolver vida al jardín. A partir de ese momento, cada personaje aporta una tarea diferente relacionada con el cuidado de la naturaleza.
 
+Nubo el caracol ayuda al jugador a elegir el camino correcto mediante consejos. Miel la abeja enseña a polinizar flores. Pin el erizo intercambia recursos y herramientas útiles como tijeras y regaderas mejoradas. Más adelante, Roco el sapo pide limpiar el estanque para poder continuar el recorrido, mientras que Lira la mariposa guía al jugador mediante luces para evitar zonas de hongos venenosos.
 
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+A medida que Lumi completa las misiones, el entorno cambia visualmente: aparecen brotes, flores, agua limpia y colores vivos. Finalmente, el jugador llega al Árbol Corazón, donde utiliza todo lo aprendido y los recursos obtenidos para restaurar completamente el jardín. Cuando el jardín vuelve a florecer, una puerta se abre automáticamente permitiendo encontrar la salida.
 
+(Insertar aquí imágenes del jardín seco, personajes, transformación del jardín y escena final)
 
 
 ### 2.2. Esquema de navegación 
-
-
+Pantalla inicial
+↓
+Menú principal
+↓
+Escena del jardín / mapa principal
+↓
+Encuentro con personajes
+↓
+Diálogos interactivos
+↓
+Misiones jugables
+↓
+Transformación visual del jardín
+↓
+Árbol Corazón
+↓
+Escena final / salida
 
 (imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
 
-
-
-
-
-
-
 # 3. Metodología
-
-Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
 
 
 
 ## Etapa 1: Ideación de proyecto
 
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
+Etapa 1: Ideación del proyecto
+Investigación de campo
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
-
+Para desarrollar el proyecto se investigaron referencias visuales y narrativas relacionadas con videojuegos independientes de exploración y naturaleza. También se tomó inspiración de portfolios artísticos como Portfolio Leonardi Web Page para organizar visualmente los elementos del proyecto y mantener una estética limpia y artística.
 
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
-
+Este proyecto es interesante porque combina narrativa interactiva, exploración y arte visual dentro de un entorno simbólico relacionado con la restauración de la naturaleza. El objetivo era crear una experiencia tranquila y visualmente agradable donde el jugador pudiera observar cómo sus acciones transforman el entorno.
 
 
 **Publico / audiencia**
 
-- Orientado a 
-
-
+Orientado principalmente a jugadores jóvenes y personas interesadas en experiencias narrativas relajantes, juegos artísticos y temáticas relacionadas con la naturaleza y el cuidado del entorno.
 
 
 
 ## Etapa 2: Desarrollo / actividades realizadas
+Se desarrolló un videojuego interactivo en Godot basado en exploración, diálogos y pequeñas misiones. El jugador controla a Lumi mediante movimiento por teclado y debe interactuar con personajes para avanzar.
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
+Video y animaciones
 
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
+Se realizaron ilustraciones y animaciones dibujadas digitalmente en iPad para representar acciones como plantar semillas, regar o transformar el jardín.
 
+Diálogos
+
+Se implementó un sistema de diálogos mediante Dialogic para permitir conversaciones entre Lumi y los distintos personajes del jardín.
+
+Menús y navegación
+
+Se añadieron botones y cambios de escena para organizar el flujo del juego y facilitar la navegación del usuario.
+
+Diseño visual
+
+Se diseñaron fondos del jardín en diferentes estados (seco y florecido) para mostrar visualmente el progreso del jugador y la evolución del entorno.
 
 
 ## Etapa 3: Problemas identificados
+Uno de los principales problemas encontrados fue la integración de animaciones y diálogos dentro de Godot, especialmente la configuración de Dialogic y la organización de escenas. También surgieron dificultades relacionadas con scripts, señales y sincronización entre acciones del personaje y cambios visuales del escenario.
 
-(que consideras que no  funciona correctamente y por qué )
-
-
+Otro problema fue la gestión de las animaciones y la necesidad de mantener una coherencia visual entre los distintos elementos dibujados digitalmente.
+Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
 
 # 4. Conclusiones 
+La realización del proyecto ha permitido aprender a combinar ilustración digital, narrativa interactiva y programación básica en Godot. A lo largo del desarrollo se han mejorado aspectos relacionados con la organización de escenas, creación de diálogos y animaciones.
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
+Aunque surgieron problemas técnicos durante el proceso, el proyecto consiguió representar correctamente la idea principal: la restauración progresiva de un jardín mediante pequeñas acciones y relaciones con distintos personajes.
 
-
-
-
+En el futuro sería interesante ampliar el juego añadiendo más animaciones, efectos visuales, sonido ambiental y nuevas interacciones para enriquecer aún más la experiencia del usuario.
 
 
 
@@ -144,13 +159,11 @@ Este  proyecto es interesante porque ...
 
 **Artículos y blogs** 
 
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
-
-**Recursos y materiales audiovisuales:**
-
-* Musica:  
-* Imágenes:  
-* Tipografía: 
+Godot Engine
+Dialogic Plugin
+Portfolio Leonardi Web Page
+Referencias visuales de videojuegos indie narrativos y artísticos
+Recursos de ilustración digital realizados en iPad
 
 **Herramientas utilizadas**
 
