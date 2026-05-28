@@ -37,7 +37,7 @@ El juego mezcla:
 
 creando una experiencia tranquila, artística y emocional centrada en la restauración de la naturaleza y el crecimiento personal .
 
-<img src="" width="300">
+<img src="862936C7-7613-4FD1-BF0A-CEB5AEF0FADD (1).jpg" width="300">
 
 **Estilo/género:**  Infantil.
 
