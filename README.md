@@ -14,7 +14,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Autor:**  (Beatriz Ruiz Parras) 
 
  [Profile Card](cmi-card.html)  [Alternate Profile Card](cmi-card2.html)
-
+<img src="IMG_8780.jpeg" width="300">
 **Resumen** : El videojuego consiste en una aventura narrativa y simbólica protagonizada por Lumi, un personaje que despierta en un jardín abandonado, seco y sin vida. A medida que avanza por distintos caminos del jardín, Lumi se encuentra con varios personajes —como Nubo el caracol, Miel la abeja, Pin el erizo, Roco el sapo y Lira la mariposa— que le ayudan mediante diálogos y pequeñas misiones a descubrir cómo devolver la vida al entorno y encontrar la salida 🌱✨
 
 Cada personaje representa una parte del cuidado y la reconstrucción de la naturaleza:
