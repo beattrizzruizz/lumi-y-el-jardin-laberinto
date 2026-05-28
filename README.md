@@ -11,11 +11,31 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Titulo** : Lumi y el jardin laberinto
 **Web:**   (url github.io)
 
-**Autor:**  (Nombre apellidos) 
+**Autor:**  (Beatriz Ruiz Parras) 
 
  [Profile Card](cmi-card.html)  [Alternate Profile Card](cmi-card2.html)
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : El videojuego consiste en una aventura narrativa y simbólica protagonizada por Lumi, un personaje que despierta en un jardín abandonado, seco y sin vida. A medida que avanza por distintos caminos del jardín, Lumi se encuentra con varios personajes —como Nubo el caracol, Miel la abeja, Pin el erizo, Roco el sapo y Lira la mariposa— que le ayudan mediante diálogos y pequeñas misiones a descubrir cómo devolver la vida al entorno y encontrar la salida 🌱✨
+
+Cada personaje representa una parte del cuidado y la reconstrucción de la naturaleza:
+
+* plantar semillas,
+* regar zonas secas,
+* polinizar flores,
+* intercambiar recursos,
+* limpiar espacios contaminados,
+* y seguir señales luminosas para evitar peligros.
+
+Con cada misión completada, el jardín cambia visualmente: aparecen brotes, flores, agua limpia y colores vivos. El jugador ve cómo sus acciones transforman el espacio poco a poco, hasta llegar al Árbol Corazón, el centro del jardín. Allí, Lumi utiliza todo lo aprendido y los objetos conseguidos para hacer florecer completamente el lugar, provocando que el jardín cobre vida de nuevo y se abra finalmente una puerta hacia la salida.
+
+El juego mezcla:
+
+* exploración,
+* diálogos interactivos,
+* pequeñas tareas jugables,
+* y transformación visual del escenario,
+
+creando una experiencia tranquila, artística y emocional centrada en la restauración de la naturaleza y el crecimiento personal .
 
 **Estilo/género:**  Novela / juego / portfolio / documental... etc.
 
