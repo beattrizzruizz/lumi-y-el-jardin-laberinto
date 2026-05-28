@@ -8,8 +8,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto(nombre)
-
+**Titulo** : Lumi y el jardin laberinto
 **Web:**   (url github.io)
 
 **Autor:**  (Nombre apellidos) 
